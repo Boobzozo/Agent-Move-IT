@@ -1,0 +1,1 @@
+- 2026-10-13 · mise en place du suivi de statut (STATUT, JOURNAL, commande /fin-de-session) · Enzo définit la prochaine étape du projet
